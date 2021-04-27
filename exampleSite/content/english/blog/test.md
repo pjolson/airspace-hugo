@@ -4,7 +4,6 @@ bg_image = "/images/teams/team-3.jpg"
 categories = ["SuiteScript"]
 date = 2021-04-27T05:00:00Z
 description = ""
-draft = true
 image = "/images/portfolio/work5.jpg"
 tags = ["SuiteScript"]
 title = "Test"
