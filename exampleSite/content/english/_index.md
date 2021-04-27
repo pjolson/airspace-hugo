@@ -92,6 +92,6 @@ funfacts:
       make us stand out from the crowd.
 title: Test
 description: Test
-bg_image: "/images/portfolio/work6.jpg"
+bg_image: "/images/clients/avater-3.jpg"
 
 ---
